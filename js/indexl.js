@@ -19,7 +19,7 @@ var S = {
       S.Shape.render();
       //console.log(m);
       if(m==3000){
-        window.location.href="../html/BirthdayCake.html";
+        window.location.href="../html/Birthday Cake.html";
       }
     });
 
